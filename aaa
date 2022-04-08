@@ -1,0 +1,887 @@
+		<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://www.coolmath.com/" />
+<meta name="robots" content="index, follow" />
+<link rel="shortlink" href="https://www.coolmath.com/" />
+<meta name="description" content="Cool Math has free online cool math lessons, cool math games and fun math activities. Really clear math lessons (pre-algebra, algebra, precalculus), cool math games, online graphing calculators, geometry art, fractals, polyhedra, parents and teachers areas too." />
+<meta name="abstract" content="Cool Math has free online cool math lessons, cool math games and fun math activities. Really clear math lessons (pre-algebra, algebra, precalculus), cool math games, online graphing calculators, geometry art, fractals, polyhedra, parents and teachers areas too." />
+<meta name="keywords" content="coolmath, games, fun, mathematics, lessons, high school, college, algebra, trig, calculus, geometric, trigonometric, trigonometry, tessellations, precalculus, interactive, exercises, arithmetics, fractions, grades, calculators, puzzles, children, teachers" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/themes/custom/cmat/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Cool Math - free online cool math lessons, cool math games &amp; apps, fun math activities, pre-algebra, algebra, precalculus</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_6dW2hWdlY9nEkiCc20ro6ERwIL0feNcDLNQJ525LSvM.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_H-v703DEASRiv08bh8wA1UG8snhEUrZ-Cw9S_v6QHF0.css" />
+
+  	<script type="text/javascript">
+        function getCookie(key) {
+          var keyValue = document.cookie.match("(^|;) ?" + key + "=([^;]*)(;|$)");
+          return keyValue ? keyValue[2] : null;
+        }
+  	</script>
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+
+  	<!-- Place scripts in <head> to configure ads -->
+  	<script type="text/javascript">
+  	var tyche = { mode: 'tyche', config: '//config.playwire.com/1023174/v2/websites/73019/banner.json' }
+  	</script>
+  	<script id="tyche" src="//cdn.intergient.com/pageos/pageos.js" type="text/javascript"></script>
+	
+	</head>
+  <body class="home-landing-page">
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+	
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="global-wrapper">
+  <div class="global-content-wrapper">
+    <header class="main-header" role="banner" aria-label="Site header">
+		<div class="header-banner-block">
+		    <div>
+    <div id="block-ads-top-728x90">
+  
+    
+     <div class="view-content">
+    <div class="ad-wrapper"><div data-pw-desk="leaderboard_atf" data-pw-mobi="leaderboard_atf"></div></div>
+   </div>	
+  </div>
+
+  </div>
+
+		</div>
+		    <div>
+    <div id="block-cmat-branding" class="site-branding">
+  
+    
+    <div class="other-sites-links-wrapper clearfix">
+    <div class="right-link-block">
+      <a href="https://www.coolmathgames.com"><img src="/themes/custom/cmat/images/cmg-main-logo.png" width="269" height="53" alt="cool math games" title="Coolmath header"></a>
+    </div>
+    <div class="left-link-block">
+      <a href="https://www.coolmath4kids.com"><img src="/themes/custom/cmat/images/cm4k-promo.gif" width="344" height="48" alt="cool math for kids" title="CoolMath4kids header"></a>
+    </div>
+  </div>
+      <a href="/" title="Home" rel="home" class="site-branding__logo">
+      <img src="/themes/custom/cmat/logo.png" alt="Home" />
+    </a>
+  </div>
+<nav role="navigation" aria-labelledby="block-desktopheadermenu-menu" id="block-desktopheadermenu">
+            
+  <h2 class="visually-hidden" id="block-desktopheadermenu-menu">Desktop Header menu</h2>
+  
+
+        
+<div class="pane-menu-menu-desktop-header-menu">
+  <div class="pane-content">   
+  
+           
+	 <ul class="menu"> 
+    	  	   	     		   <li>
+		    
+	   	  		  		    <a href="/prealgebra" data-drupal-link-system-path="taxonomy/term/121">Pre-Algebra</a>
+		                </li>
+    	  	   	     		   <li>
+		    
+	   	  		  		    <a href="/algebra" data-drupal-link-system-path="taxonomy/term/1">Algebra</a>
+		                </li>
+    	  	   	     		   <li>
+		    
+	   	  		  		    <a href="/precalculus-review-calculus-intro" data-drupal-link-system-path="taxonomy/term/201">Pre-Calculus</a>
+		                </li>
+    	  	   	     		   <li>
+		    
+	   	  		  		    <a href="/0-cool-math-games-and-problems" data-drupal-link-system-path="0-cool-math-games-and-problems">Practice</a>
+		                </li>
+    	  	    <li class="menu__item is-expanded expanded">
+	  		  		    <span  class="menu__link nolink">Tools &amp; Reference</span>
+		                      
+               <div class="expandable-wrapper">
+	   
+	 <ul class="menu"> 
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="/reference/online-math-dictionary" data-drupal-link-system-path="node/19411">Math Dictionary</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="/math-anxiety-survival-guide" data-drupal-link-system-path="node/19506">Math Survival Guide</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="/reference/geometry-trigonometry-reference" data-drupal-link-system-path="node/19041">Geometry &amp; Trig Reference</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="/0-teacher-success-area-prealgebra-algebra-precalculus" data-drupal-link-system-path="node/18911">Teacher&#039;s Success Area</a>
+		                </li>
+        </ul>
+	      </div>
+	  
+    
+
+              </li>
+    	  	   	     	       <li class="last">
+		    
+	   	  		  		    <a href="https://www.coolmathgames.com" class="last">coolmathgames.com</a>
+		                </li>
+        </ul>
+	  
+    
+  </div>  
+</div> 
+  
+
+
+  </nav>
+
+  </div>
+
+	</header>
+	<div class="content-column-wrapper clearfix">
+        <div class="coolmath-adsleft-homepage-160x600">
+      <div class="ad-wrapper">
+        <div id="sky-atf"></div>
+      </div>
+    </div>
+    	  <div class="content-layout cm-home">
+	            <div class="row-top-content">
+          <aside class="section top-motto" role="complementary">
+              <div>
+    <div id="block-homepagetopcontent">
+  
+    
+          <div class="field field--name-body field--type-text-with-summary field--label-hidden field__items">
+                <div class="field__item">
+        <p>Love math? Hate math? Need homework help? This site's for you!</p>
+
+            </div>
+          </div>
+
+  </div>
+
+  </div>
+
+          </aside>
+        </div>
+        	    <div class="clearfix row-column-content">
+          <main class="main-column" role="main">
+             <section class="section" style="height: 360px;">
+               <a id="main-content" tabindex="-1"></a>
+                <div style="float: left; height: 300px;">
+                    <div>
+    <div data-drupal-messages-fallback class="hidden"></div>  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div class="block-region-content"><div>
+  
+    
+          <div class="field field--name-body field--type-text-with-summary field--label-hidden field__items">
+                <div class="field__item">
+        
+<div class="chapter-block common-title">
+<div class="pane-title">
+<h1 class="math-lessons-top">Math Lessons</h1>
+</div>
+
+<div class="chapter-block common-title green-color">
+<div class="pane-title right-arrow-title">
+<h2 class="subject"><a href="/prealgebra">Pre-Algebra Lessons</a></h2>
+</div>
+
+<div class="text-wrapper">Where basic numbers start to get interesting...</div>
+
+<div class="links-list"><a href="/prealgebra/00-factors-primes">Factors and Primes</a><span class="separator">|</span> <a href="/prealgebra/02-decimals">Decimals</a></div>
+</div>
+
+<div class="chapter-block common-title orange-color">
+<div class="pane-title right-arrow-title">
+<h2><a href="/algebra">Algebra Lessons</a></h2>
+</div>
+
+<div class="text-wrapper">What we can do with letters and numbers</div>
+
+<div class="links-list"><a href="/algebra/01-exponents">Exponents</a><span class="separator">|</span> <a href="/algebra/08-lines">Lines</a><span class="separator">|</span> <a href="/algebra/15-functions">Functions</a></div>
+</div>
+
+<div class="chapter-block common-title violet-color">
+<div class="pane-title right-arrow-title">
+<h2><a href="/precalculus-review-calculus-intro">Pre-Calculus Lessons</a></h2>
+</div>
+
+<div class="text-wrapper">Heading to Calc? We're here to help</div>
+
+<div class="links-list"><a href="/precalculus-review-calculus-intro/precalculus-trigonometry/28-the-unit-circle-01">Algebra For Calculus</a></div>
+</div>
+</div>
+            </div>
+          </div>
+
+  </div>
+</div>
+    </div>
+  </div>
+
+  </div>
+
+                </div>
+                                                <div class="puzzleBlockWrapper">
+                  <div class="puzzleBlock">
+                    <div class="puzzleHeader">
+                      <div class="puzzleHeading">
+                        <img  src="/themes/custom/cmat/images/the-puzzler.png" alt="The Puzzle">
+                      </div>
+                      <div class="puzzle-next-btn">Next Puzzle ></div>
+                    </div>
+                    <div class="puzzleItemRow">
+                                            <div class="puzzleItem">
+                        <img class="puzzleQuestion" alt="Dots_question" src="/themes/custom/cmat/images/home-puzzle/Dots_question.png">
+                        <img class="puzzleAnswer" alt="Dots_answer" src="/themes/custom/cmat/images/home-puzzle/Dots_answer.png">
+                        <div class="pSolution-link"><span>See the Solution</span></div>
+                      </div>
+                      <div class="puzzleItem">
+                        <img class="puzzleQuestion" alt="Pennies_question" src="/themes/custom/cmat/images/home-puzzle/Pennies_question.png">
+                        <img class="puzzleAnswer" alt="Pennies_solution" src="/themes/custom/cmat/images/home-puzzle/Pennies_solution.png">
+                        <div class="pSolution-link"><span>See the Solution</span></div>
+                      </div>
+                      <div class="puzzleItem">
+                        <img class="puzzleQuestion" alt="Toothpicks_question" src="/themes/custom/cmat/images/home-puzzle/Toothpicks_question.png">
+                        <img class="puzzleAnswer" alt="Toothpicks_answer" src="/themes/custom/cmat/images/home-puzzle/Toothpicks_answer.png">
+                        <div class="pSolution-link"><span>See the Solution</span></div>
+                      </div>
+                      <div class="puzzleItem">
+                        <img class="puzzleQuestion" alt="Trees_question" src="/themes/custom/cmat/images/home-puzzle/Trees_question.png">
+                        <img class="puzzleAnswer" alt="Trees_answer" src="/themes/custom/cmat/images/home-puzzle/Trees_answer.png">
+                        <div class="pSolution-link"><span>See the Solution</span></div>
+                      </div>
+                                          </div>
+                  </div>
+                </div>
+                             </section>
+
+          </main>
+                      <div class="right-column">
+              <aside class="section" role="complementary">
+                  <div>
+    <div id="block-homepageotherwebsitelinks">
+  
+    
+          <div class="field field--name-body field--type-text-with-summary field--label-hidden field__items">
+                <div class="field__item">
+        <div id="rightnav">
+<ul><li id="ourothersites"><a href="#">our other sites</a></li>
+<li id="forkids"><a href="https://www.coolmath4kids.com">cool math for kids</a></li>
+<li id="games"><a href="https://www.coolmathgames.com">cool math games</a></li>
+<li id="teachers"><a href="http://www.coolmath4teachers.com">cool math for teachers</a></li>
+<li id="parents"><a href="http://www.coolmath4parents.com">cool math 4 parents</a></li>
+</ul></div>
+
+            </div>
+          </div>
+
+  </div>
+
+  </div>
+
+              </aside>
+            </div>
+          	  </div>
+	          <div class="row-bottom">
+          <aside class="section" role="complementary">
+              <div>
+    <div class="views-element-container" id="block-views-block-practice-block-2">
+  
+     <div class="common-title"> 
+    <h2 class="pane-title">Math Games on CoolmathGames.com</h2>
+   </div>	
+    
+     <div class="view-content">
+    <div><div class="js-view-dom-id-1dd9414223e46419b0a8ed5a170172efab54e0a8742d59c94848d037fca232b5">
+  
+  
+  
+
+  
+  
+  
+
+      <div class="views-row"><div id="block-system-main">
+	<article data-history-node-id="20108" role="article" about="/node/20108" class="node node-remote-game node--view-mode-teaser clearfix">
+	  <div class="node__content clearfix field-item game-item">
+	    <div class="game-link-wrapper">
+		  		    <a href="https://www.coolmathgames.com/0-make-24-0">
+		  		      <div class="field-image-wrapper"><div class="field-image">
+                		            <img src="/sites/default/files/styles/game_thumbnail/public/make-24-game-logo.png?itok=2tOz0gio" width="83" height="50" alt="" typeof="foaf:Image" />
+
+
+
+		        			  </div></div><h3 class="game-title"><span>Make 24</span>
+</h3>
+		  </a>
+		</div>
+		<div class="field-short-description-wrapper">
+          <div class="field-short-description">
+            		      Use any combination of operations to make the magic number.
+		    		  </div>
+        </div>
+	  </div>
+	</article>
+</div></div>
+    <div class="views-row"><div id="block-system-main">
+	<article data-history-node-id="20109" role="article" about="/node/20109" class="node node-remote-game node--view-mode-teaser clearfix">
+	  <div class="node__content clearfix field-item game-item">
+	    <div class="game-link-wrapper">
+		  		    <a href="https://www.coolmathgames.com/0-math-clash">
+		  		      <div class="field-image-wrapper"><div class="field-image">
+                		            <img src="/sites/default/files/styles/game_thumbnail/public/math-clash-game-logo.png?itok=OyJL5GQP" width="83" height="50" alt="" typeof="foaf:Image" />
+
+
+
+		        			  </div></div><h3 class="game-title"><span>Math Clash</span>
+</h3>
+		  </a>
+		</div>
+		<div class="field-short-description-wrapper">
+          <div class="field-short-description">
+            		      Ready, set... clash!
+		    		  </div>
+        </div>
+	  </div>
+	</article>
+</div></div>
+    <div class="views-row"><div id="block-system-main">
+	<article data-history-node-id="20106" role="article" about="/node/20106" class="node node-remote-game node--view-mode-teaser clearfix">
+	  <div class="node__content clearfix field-item game-item">
+	    <div class="game-link-wrapper">
+		  		    <a href="https://www.coolmathgames.com/0-lemonade-stand">
+		  		      <div class="field-image-wrapper"><div class="field-image">
+                		            <img src="/sites/default/files/styles/game_thumbnail/public/game-logo-lemonade-stand.gif?itok=N1QLOO6k" width="83" height="50" typeof="foaf:Image" />
+
+
+
+		        			  </div></div><h3 class="game-title"><span>Lemonade Stand</span>
+</h3>
+		  </a>
+		</div>
+		<div class="field-short-description-wrapper">
+          <div class="field-short-description">
+            		      Run a lemonade stand and make lots of money!
+		    		  </div>
+        </div>
+	  </div>
+	</article>
+</div></div>
+    <div class="views-row"><div id="block-system-main">
+	<article data-history-node-id="19991" role="article" about="/node/19991" class="node node-remote-game node--promoted node--view-mode-teaser clearfix">
+	  <div class="node__content clearfix field-item game-item">
+	    <div class="game-link-wrapper">
+		  		    <a href="https://www.coolmathgames.com/0-2048">
+		  		      <div class="field-image-wrapper"><div class="field-image">
+                		            <img src="/sites/default/files/styles/game_thumbnail/public/game-logo-2048.gif?itok=2nta-Fqd" width="83" height="50" typeof="foaf:Image" />
+
+
+
+		        			  </div></div><h3 class="game-title"><span>2048</span>
+</h3>
+		  </a>
+		</div>
+		<div class="field-short-description-wrapper">
+          <div class="field-short-description">
+            		      Add like numbers to win this one. Can you get to 2048?
+		    		  </div>
+        </div>
+	  </div>
+	</article>
+</div></div>
+    <div class="views-row"><div id="block-system-main">
+	<article data-history-node-id="20011" role="article" about="/node/20011" class="node node-remote-game node--promoted node--view-mode-teaser clearfix">
+	  <div class="node__content clearfix field-item game-item">
+	    <div class="game-link-wrapper">
+		  		    <a href="https://www.coolmathgames.com/0-crazy-taxi-m12">
+		  		      <div class="field-image-wrapper"><div class="field-image">
+                		            <img src="/sites/default/files/styles/game_thumbnail/public/game-logo-crazy-taxi-m12.gif?itok=iSOsUFgJ" width="83" height="50" typeof="foaf:Image" />
+
+
+
+		        			  </div></div><h3 class="game-title"><span>Crazy Taxi M-12</span>
+</h3>
+		  </a>
+		</div>
+		<div class="field-short-description-wrapper">
+          <div class="field-short-description">
+            		       You need to know your times tables FAST for this game.
+		    		  </div>
+        </div>
+	  </div>
+	</article>
+</div></div>
+    <div class="views-row"><div id="block-system-main">
+	<article data-history-node-id="20021" role="article" about="/node/20021" class="node node-remote-game node--promoted node--view-mode-teaser clearfix">
+	  <div class="node__content clearfix field-item game-item">
+	    <div class="game-link-wrapper">
+		  		    <a href="https://www.coolmathgames.com/0-subtraction-blast">
+		  		      <div class="field-image-wrapper"><div class="field-image">
+                		            <img src="/sites/default/files/styles/game_thumbnail/public/game-logo-subtraction-blast.gif?itok=qxOE59gS" width="83" height="50" typeof="foaf:Image" />
+
+
+
+		        			  </div></div><h3 class="game-title"><span>Subtraction Blast</span>
+</h3>
+		  </a>
+		</div>
+		<div class="field-short-description-wrapper">
+          <div class="field-short-description">
+            		      Great arithmetic practice while you get to shoot stuff.
+		    		  </div>
+        </div>
+	  </div>
+	</article>
+</div></div>
+
+    
+
+  
+  
+
+      <footer>
+      <div class="more-link">
+  <a href="/0-cool-math-games-and-problems">
+    More  </a>
+</div>
+    </footer>
+  
+  
+</div>
+</div>
+
+   </div>	
+  </div>
+<div id="block-ads-homepage-300x250">
+  
+    
+     <div class="view-content">
+    <div class="ad-wrapper"><div data-pw-desk="med_rect_atf" data-pw-mobi="med_rect_atf"></div></div>
+   </div>	
+  </div>
+<div id="block-newcoolmathgames">
+  
+     <div class="common-title"> 
+    <h2 class="pane-title">New on CoolmathGames.com</h2>
+   </div>	
+    
+     <div class="view-content">
+    <div class="view view-practice">
+          <div class="views-row views-row-">
+        <div class="node node-game node-teaser node-by-viewer clearfix">
+          <div class="content">
+            <div class="game-item">
+              <div class="game-link-wrapper">
+                <a href="https://www.coolmathgames.com/0-timmy-the-timebender">
+                  <div class="field-image-wrapper">
+                    <div class="field-image">
+                     <img src="https://www.coolmathgames.com/sites/default/files/styles/thumbnail_small/public/game_thumbnail/timmy-the-timebender-logo_0.png?itok=EXQ55Dhj" alt="Timmy the Timebender" title="Timmy the Timebender" />
+                    </div>
+                   </div>
+                  <h3 class="game-title">Timmy the Timebender</h3>
+                </a>
+              </div>
+              <div class="field-short-description-wrapper">
+                <div class="field-short-description">
+		         Time is in your hands!
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+          <div class="views-row views-row-">
+        <div class="node node-game node-teaser node-by-viewer clearfix">
+          <div class="content">
+            <div class="game-item">
+              <div class="game-link-wrapper">
+                <a href="https://www.coolmathgames.com/0-maze">
+                  <div class="field-image-wrapper">
+                    <div class="field-image">
+                     <img src="https://www.coolmathgames.com/sites/default/files/styles/thumbnail_small/public/game_thumbnail/maze-logo_0.png?itok=AnNG9m-F" alt="Maze" title="Maze" />
+                    </div>
+                   </div>
+                  <h3 class="game-title">Maze</h3>
+                </a>
+              </div>
+              <div class="field-short-description-wrapper">
+                <div class="field-short-description">
+		         So many mazes, so little time!
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+          <div class="views-row views-row-">
+        <div class="node node-game node-teaser node-by-viewer clearfix">
+          <div class="content">
+            <div class="game-item">
+              <div class="game-link-wrapper">
+                <a href="https://www.coolmathgames.com/0-are-you-human">
+                  <div class="field-image-wrapper">
+                    <div class="field-image">
+                     <img src="https://www.coolmathgames.com/sites/default/files/styles/thumbnail_small/public/game_thumbnail/are-you-human-logo_0.png?itok=TN3BSYiY" alt="Are You Human" title="Are You Human" />
+                    </div>
+                   </div>
+                  <h3 class="game-title">Are You Human</h3>
+                </a>
+              </div>
+              <div class="field-short-description-wrapper">
+                <div class="field-short-description">
+		         Well... Are you?
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+   </div>	
+  </div>
+<div id="block-classicgamesoncoolmathgamescom">
+  
+     <div class="common-title"> 
+    <h2 class="pane-title">Classic Games on CoolmathGames.com</h2>
+   </div>	
+    
+          <div class="field field--name-field-practice-or-remote-games field--type-entity-reference field--label-hidden field__items">
+                <div class="field__item">
+        <div id="block-system-main">
+	<article data-history-node-id="20101" role="article" about="/node/20101" class="node node-remote-game node--view-mode-teaser clearfix">
+	  <div class="node__content clearfix field-item game-item">
+	    <div class="game-link-wrapper">
+		  		    <a href="https://www.coolmathgames.com/0-chess">
+		  		      <div class="field-image-wrapper"><div class="field-image">
+                		            <img src="/sites/default/files/styles/game_thumbnail/public/chess-icon.png?itok=-ICsD59B" width="83" height="50" typeof="foaf:Image" />
+
+
+
+		        			  </div></div><h3 class="game-title"><span>Chess</span>
+</h3>
+		  </a>
+		</div>
+		<div class="field-short-description-wrapper">
+          <div class="field-short-description">
+            		      Play Chess against the computer or your friends!
+		    		  </div>
+        </div>
+	  </div>
+	</article>
+</div>
+            </div>
+                  <div class="field__item">
+        <div id="block-system-main">
+	<article data-history-node-id="20091" role="article" about="/node/20091" class="node node-remote-game node--view-mode-teaser clearfix">
+	  <div class="node__content clearfix field-item game-item">
+	    <div class="game-link-wrapper">
+		  		    <a href="https://www.coolmathgames.com/0-checkers">
+		  		      <div class="field-image-wrapper"><div class="field-image">
+                		            <img src="/sites/default/files/styles/game_thumbnail/public/checkers-game-logo.png?itok=zybGSBkF" width="83" height="50" typeof="foaf:Image" />
+
+
+
+		        			  </div></div><h3 class="game-title"><span>Checkers</span>
+</h3>
+		  </a>
+		</div>
+		<div class="field-short-description-wrapper">
+          <div class="field-short-description">
+            		      The classic game of moving and jumping.
+		    		  </div>
+        </div>
+	  </div>
+	</article>
+</div>
+            </div>
+                  <div class="field__item">
+        <div id="block-system-main">
+	<article data-history-node-id="20096" role="article" about="/node/20096" class="node node-remote-game node--view-mode-teaser clearfix">
+	  <div class="node__content clearfix field-item game-item">
+	    <div class="game-link-wrapper">
+		  		    <a href="https://www.coolmathgames.com/0--sudoku">
+		  		      <div class="field-image-wrapper"><div class="field-image">
+                		            <img src="/sites/default/files/styles/game_thumbnail/public/sudoku-game-logo.png?itok=huO3AHqH" width="83" height="50" typeof="foaf:Image" />
+
+
+
+		        			  </div></div><h3 class="game-title"><span>Sudoku</span>
+</h3>
+		  </a>
+		</div>
+		<div class="field-short-description-wrapper">
+          <div class="field-short-description">
+            		      Fill in the spaces with the right numbers.
+		    		  </div>
+        </div>
+	  </div>
+	</article>
+</div>
+            </div>
+          </div>
+
+  </div>
+<div id="block-ads-bottom-728x90-2">
+  
+    
+     <div class="view-content">
+    <div class="ad-wrapper"><div data-pw-desk="leaderboard_btf" data-pw-mobi="leaderboard_btf">
+</div></div>
+   </div>	
+  </div>
+<div id="block-homepagelinksection">
+  
+     <div class="common-title"> 
+    <h2 class="pane-title">Our Other Sites</h2>
+   </div>	
+    
+          <div class="field field--name-field-text-block field--type-text-long field--label-hidden field__items">
+                <div class="field__item">
+        <p><a href="https://www.coolmathgames.com"><span style="font-family:proximanovasoft-bold;">Coolmathgames.com</span></a><br /><span style="font-family:proximanovasoft-regular;">Our brain-training site, for everyone, where logic &amp; thinking meets fun &amp; games. These games&nbsp;<br />
+have no violence, no empty action, just a lot of challenges that will make you forget&nbsp;<br />
+you're getting a mental workout! &nbsp;</span></p>
+<p><span style="font-family:proximanovasoft-bold;"><a href="https://www.coolmath4kids.com" target="_blank">Coolmath4kids.com</a></span><br /><span style="font-family:proximanovasoft-regular;">Math lessons and games for kids ages 3 through 12.&nbsp;</span></p>
+<p><a href="http://www.coolmath4teachers.com" target="_blank"><span style="font-family:proximanovasoft-bold;">Coolmath4Teachers.com</span></a><br /><span style="font-family:proximanovasoft-regular;">Information and resources for teachers.&nbsp;</span></p>
+<p><a href="http://www.coolmath4parents.com" target="_blank"><span style="font-family:proximanovasoft-bold;">Coolmath4Parents.com</span></a><br /><span style="font-family:proximanovasoft-regular;">Tips and lessons for parents.&nbsp;</span></p>
+
+            </div>
+          </div>
+
+  </div>
+
+  </div>
+
+          </aside>
+        </div>
+          </div>
+   </div>
+  </div>
+    <footer id="footer" class="main-footer">
+	  <div class="footer-ad-block">
+		  
+		</div>
+	  <div class="panel-pane pane-block pane-bean-footer-pivacy-policy">
+        <div class="link-with-body-title"><a href="https://www.coolmathgames.com/privacyp">Coolmath privacy policy</a></div>
+          <div class="field-text-block-wrapper">
+            <p>If you believe that your own copyrighted content is on our Site without your permission, please follow this&nbsp;<a href="/copyright-infringement-notice-procedure">Copyright Infringement Notice procedure</a>.</p>
+		  </div>
+      </div>
+	            <aside class="section" role="complementary">
+              <div>
+    <nav role="navigation" aria-labelledby="block-desktopfootermenu-menu" id="block-desktopfootermenu">
+            
+  <h2 class="visually-hidden" id="block-desktopfootermenu-menu">Desktop Footer menu</h2>
+  
+
+        
+<div class="menu-name-menu-desktop-footer-menu">
+  
+          <ul class="footer-menu">
+    	  	    <li class="menu__item is-expanded expanded">
+	  		  		    <span class="menu__link nolink">COOLMATH.COM</span>
+		                      
+          <ul class="footer-menu">
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="/aboutus" title="About Us" data-drupal-link-system-path="node/18926">About Us</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="/termsuse" title="Terms of Use" data-drupal-link-system-path="node/18936">Terms of Use</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="https://www.coolmathgames.com/aboutourads" title="About Our Ads">About Our Ads</a>
+		                </li>
+        </ul>
+    
+
+              </li>
+    	  	    <li class="menu__item is-expanded expanded">
+	  		  		    <span class="menu__link nolink">TOPICS</span>
+		                      
+          <ul class="footer-menu">
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="/prealgebra" title="Pre-Algebra Lessons" data-drupal-link-system-path="taxonomy/term/121">Pre-Algebra Lessons</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="/algebra" title="Algebra Lessons" data-drupal-link-system-path="taxonomy/term/1">Algebra Lessons</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="/precalculus-review-calculus-intro" title="Pre-Calculus Lessons" data-drupal-link-system-path="taxonomy/term/201">Pre-Calculus Lessons</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="/reference/online-math-dictionary" title="Math Dictionary" data-drupal-link-system-path="node/19411">Math Dictionary</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="/algebra/08-lines" title="Lines" data-drupal-link-system-path="taxonomy/term/36">Lines</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="/prealgebra/00-factors-primes" title="Factors and Primes" data-drupal-link-system-path="taxonomy/term/126">Factors and Primes</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="/prealgebra/02-decimals" title="Decimals" data-drupal-link-system-path="taxonomy/term/146">Decimals</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="/prealgebra/06-properties" title="Properties" data-drupal-link-system-path="taxonomy/term/166">Properties</a>
+		                </li>
+        </ul>
+    
+
+              </li>
+    	  	    <li class="menu__item is-expanded expanded">
+	  		  		    <span class="menu__link nolink">MORE FROM COOLMATH</span>
+		                      
+          <ul class="footer-menu">
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="https://www.coolmathgames.com" title="Coolmath Games">Coolmath Games</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="https://www.coolmath4kids.com" title="Coolmath4Kids">Coolmath4Kids</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="https://www.coolmath4kids.com/manipulatives/ten-frames" title="Ten Frame Manipulative">Ten Frame Manipulative</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="https://www.coolmath4kids.com/manipulatives/base-ten-blocks" title="Base Ten Blocks Manipulative">Base Ten Blocks Manipulative</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="https://www.coolmath4kids.com/manipulatives/number-line" title="Number Line Manipulative">Number Line Manipulative</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="https://www.coolmath4kids.com/manipulatives/pattern-blocks" title="Pattern Blocks Manipulative">Pattern Blocks Manipulative</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="https://www.coolmath4kids.com/quizzes" title="Math Quizzes">Math Quizzes</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="http://www.coolmath4teachers.com" title="Coolmath4Teachers">Coolmath4Teachers</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="http://www.coolmath4parents.com" title="Coolmath4Parents">Coolmath4Parents</a>
+		                </li>
+        </ul>
+    
+
+              </li>
+    	  	    <li class="menu__item is-expanded expanded">
+	  		  		    <span class="menu__link nolink">QUIZLIFE</span>
+		                      
+          <ul class="footer-menu">
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="https://www.quizlife.com" title="QuizLife Home">QuizLife Home</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="https://www.quizlife.com/categories/geography" title="Geography Quizzes">Geography Quizzes</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="https://www.quizlife.com/categories/history-politics" title="History Quizzes">History Quizzes</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="https://www.quizlife.com/categories/science-nature" title="Science &amp; Nature Quizzes">Science &amp; Nature Quizzes</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="https://www.quizlife.com/categories/sports" title="Sports Quizzes">Sports Quizzes</a>
+		                </li>
+    	  	   	    <li class="menu__item is-leaf first leaf">
+	   	  		  		    <a href="https://www.quizlife.com/categories/arts-entertainment" title="Entertainment Quizzes">Entertainment Quizzes</a>
+		                </li>
+        </ul>
+    
+
+              </li>
+        </ul>
+    
+	</div> 
+  
+
+
+  </nav>
+
+  </div>
+
+          </aside>
+      	  <div class="copyright-wrapper">
+	    <p>&copy; 2021 Coolmath.com LLC. All Rights Reserved.&nbsp;<a href="http://www.constructivemedia.com">Constructive Media, LLC</a></p>
+	  </div>
+    </footer>
+</div>
+<script type="text/javascript">
+  function trackEvent(category, action, label, value) {
+    if(typeof value === 'undefined' || value === null) {
+      value = 0;
+    }
+    if(typeof __gaTracker !== "undefined") {
+      __gaTracker('send', {
+          hitType: 'event',
+          eventCategory: category,
+          eventAction: action,
+          eventLabel: label,
+          eventValue: value
+      });
+    }
+  }
+</script>
+
+  </div>
+
+	
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"home","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"user":{"uid":0,"permissionsHash":"0254e63cd0a862993d44abd6052f2e1d26c8fcaa024a8387c7a94b9d9bbe37ca"}}</script>
+<script src="/sites/default/files/js/js_7qD_Ux-cEr345NDiVPJ_gdCCwQ1_6gTsSqaIP5nb3n4.js"></script>
+
+	<div class="gdpr-overlay-background" style="display:none"></div>
+	<div class="gdpr-overlay-container" style="display:none">
+      <div class="gdpr-overlay">
+        <h1 class="gdpr-welcome">welcome to coolmath</h1>
+          <p class="overlay-text">We use first party cookies on our website to enhance your browsing experience, and third party cookies to provide advertising that may be of interest to you. </p>
+          <p class="overlay-text">You can accept or reject cookies on our website by clicking one of the buttons below. <span>Rejecting cookies may impair some of our website&rsquo;s functionality.</span></p>
+          <div class="accept-all-cookies overlay-button" onclick="acceptAllCookies();"><span>Accept All Cookies</span></div><br>
+          <div class="accept-firstparty-cookies overlay-button" onclick="acceptFirstpartyCookies();"><span>Accept First Party Cookies</span></div><br>
+          <div class="reject-all-cookies overlay-button" onclick="rejectAllCookies();"><span>Reject All Cookies</span></div><br>
+          <p class="overlay-text">To understand more about how we and our advertising partners use cookies or to change your preference and browser settings, please see our <a href="/global-privacy-policy">Global Privacy Policy</a>.</p>
+      </div>
+    </div>
+	<script type="text/javascript">
+      jQuery( document ).ready(function() {
+        cmg_gdpr_check = getCookie("GDPR");
+        cmg_gdpr_all_check = getCookie("GDPR_All");
+        cmg_gdpr_first_check = getCookie("GDPR_First");
+        cmg_gdpr_reject_check = getCookie("GDPR_Reject");
+        if(cmg_gdpr_check != null && cmg_gdpr_check=="true") {
+          if(cmg_gdpr_all_check == null && cmg_gdpr_first_check == null && cmg_gdpr_reject_check == null) { // user is visiting our site firsttime from one of GDPR countries
+            if(window.location.pathname !== "/global-privacy-policy") {
+              jQuery('html').css('overflow','hidden');
+              jQuery(".gdpr-overlay-background").show();
+              jQuery(".gdpr-overlay-container").show();
+              jQuery(".gdpr-overlay-container").css('visibility','visible');
+              jQuery(".gdpr-overlay-background").css('visibility','visible');
+            }
+            jQuery(".ad-text").hide();
+          } else if(cmg_gdpr_all_check == null){
+            jQuery(".ad-text").hide();
+         }
+       }
+      });
+      function acceptAllCookies() {
+        var d = new Date();
+        d.setTime(d.getTime() + (365*2*24*60*60*1000));
+        var expires = "expires="+ d.toUTCString();
+        document.cookie = "GDPR_All=true;" + expires + ";path=/";
+        window.location =  location.href;
+      }
+      function acceptFirstpartyCookies() {
+        document.cookie = "GDPR_First=true"+ ";path=/";
+        window.location =  location.href;
+      }
+      function rejectAllCookies() {
+        document.cookie = "GDPR_Reject=true"+ ";path=/";
+        window.location =  location.href;
+      }
+    </script>
+  </body>
+</html>
